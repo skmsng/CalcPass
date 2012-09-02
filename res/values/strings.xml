@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">電卓？</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">電卓？</string>
+    
+	<string name="toast_div_by_zero">0で割ることはできません</string>
+    <string name="intent">遷移</string>
+    <string name="menu_new">新規</string>
+    <string name="menu_edit">編集</string>
+    <string name="menu_delete">削除</string>
+    <string name="menu_back">戻る</string>
+    <string name="menu_search">検索</string>
+    <string name="empty">データがありません</string>
+
+</resources>
